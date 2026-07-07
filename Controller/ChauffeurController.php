@@ -3,29 +3,26 @@
 require_once __DIR__ . '/../Model/Chauffeur.php';
 require_once __DIR__ . '/../Model/Course.php';
 
-class ChauffeurController
+function ctrlRecevoirNotifications()
 {
-    public function recevoirNotifications()
-    {
-    }
+}
 
-    public function accepterCourse()
-    {
-    }
+function ctrlAccepterCourse()
+{
+}
 
-    public function ignorerCourse()
-    {
-    }
+function ctrlIgnorerCourse()
+{
+}
 
-    public function demarrerCourse()
-    {
-    }
+function ctrlDemarrerCourse()
+{
+}
 
-    public function terminerCourse()
-    {
-    }
+function ctrlTerminerCourse()
+{
+}
 
-    public function consulterGains()
-    {
-    }
+function ctrlConsulterGains()
+{
 }

@@ -1,12 +1,9 @@
 <?php
 
-class BancaireHelper
+function demanderPrelevementBancaire(float $montant)
 {
-    public function demanderPrelevement(float $montant)
-    {
-    }
+}
 
-    public function validerTransaction()
-    {
-    }
+function validerTransactionBancaire()
+{
 }

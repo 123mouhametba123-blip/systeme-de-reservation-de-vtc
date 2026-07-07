@@ -1,32 +1,29 @@
 <?php
 
-class Course
+function estimerPrix(string $depart, string $destination)
 {
-    public function estimerPrix(string $depart, string $destination)
-    {
-    }
+}
 
-    public function enregistrerCourse()
-    {
-    }
+function enregistrerCourse()
+{
+}
 
-    public function verifierDisponibilite()
-    {
-    }
+function verifierDisponibilite()
+{
+}
 
-    public function associerChauffeur(int $chauffeurId)
-    {
-    }
+function associerChauffeur(int $chauffeurId)
+{
+}
 
-    public function mettreAJourStatut(string $statut)
-    {
-    }
+function mettreAJourStatut(string $statut)
+{
+}
 
-    public function calculerMontantDefinitif()
-    {
-    }
+function calculerMontantDefinitif()
+{
+}
 
-    public function declencherFacturation()
-    {
-    }
+function declencherFacturation()
+{
 }

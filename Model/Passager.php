@@ -1,24 +1,21 @@
 <?php
 
-class Passager
+function commanderCourse(string $depart, string $destination)
 {
-    public function commanderCourse(string $depart, string $destination)
-    {
-    }
+}
 
-    public function validerCommande()
-    {
-    }
+function validerCommande()
+{
+}
 
-    public function payerCourse()
-    {
-    }
+function payerCourse()
+{
+}
 
-    public function noterChauffeur(int $chauffeurId, int $note)
-    {
-    }
+function noterChauffeur(int $chauffeurId, int $note)
+{
+}
 
-    public function consulterHistorique()
-    {
-    }
+function consulterHistorique()
+{
 }

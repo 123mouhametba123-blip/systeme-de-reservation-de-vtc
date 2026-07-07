@@ -1,12 +1,9 @@
 <?php
 
-class Evaluation
+function attribuerNote(int $chauffeurId, int $note)
 {
-    public function attribuerNote(int $chauffeurId, int $note)
-    {
-    }
+}
 
-    public function consulterEvaluations(int $chauffeurId)
-    {
-    }
+function consulterEvaluations(int $chauffeurId)
+{
 }

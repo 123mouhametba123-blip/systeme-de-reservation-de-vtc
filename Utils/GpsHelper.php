@@ -1,12 +1,9 @@
 <?php
 
-class GpsHelper
+function calculerDistance(string $depart, string $destination)
 {
-    public function calculerDistance(string $depart, string $destination)
-    {
-    }
+}
 
-    public function estimerPrix(float $distance)
-    {
-    }
+function estimerPrixParDistance(float $distance)
+{
 }

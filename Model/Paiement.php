@@ -1,16 +1,13 @@
 <?php
 
-class Paiement
+function demanderPrelevement(float $montant)
 {
-    public function demanderPrelevement(float $montant)
-    {
-    }
+}
 
-    public function validerTransaction()
-    {
-    }
+function validerTransaction()
+{
+}
 
-    public function genererRecu()
-    {
-    }
+function genererRecu()
+{
 }

@@ -2,17 +2,14 @@
 
 require_once __DIR__ . '/../Model/Course.php';
 
-class CourseController
+function ctrlEstimerPrix()
 {
-    public function estimerPrix()
-    {
-    }
+}
 
-    public function notifierChauffeurs()
-    {
-    }
+function ctrlNotifierChauffeurs()
+{
+}
 
-    public function mettreAJourStatut()
-    {
-    }
+function ctrlMettreAJourStatut()
+{
 }

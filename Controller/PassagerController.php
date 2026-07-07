@@ -3,25 +3,22 @@
 require_once __DIR__ . '/../Model/Passager.php';
 require_once __DIR__ . '/../Model/Course.php';
 
-class PassagerController
+function ctrlCommanderCourse()
 {
-    public function commanderCourse()
-    {
-    }
+}
 
-    public function validerCommande()
-    {
-    }
+function ctrlValiderCommande()
+{
+}
 
-    public function consulterHistorique()
-    {
-    }
+function ctrlConsulterHistorique()
+{
+}
 
-    public function noterChauffeur()
-    {
-    }
+function ctrlNoterChauffeur()
+{
+}
 
-    public function payerCourse()
-    {
-    }
+function ctrlPayerCourse()
+{
 }

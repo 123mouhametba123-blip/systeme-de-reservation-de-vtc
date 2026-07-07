@@ -1,8 +1,5 @@
 <?php
 
-class Vehicule
+function getInfosVehicule()
 {
-    public function getInfosVehicule()
-    {
-    }
 }

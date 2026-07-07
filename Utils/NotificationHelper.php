@@ -1,12 +1,9 @@
 <?php
 
-class NotificationHelper
+function notifierChauffeursProximite(array $course)
 {
-    public function notifierChauffeursProximite(Course $course)
-    {
-    }
+}
 
-    public function notifierPassager(int $passagerId, string $message)
-    {
-    }
+function notifierPassager(int $passagerId, string $message)
+{
 }

@@ -1,28 +1,25 @@
 <?php
 
-class Chauffeur
+function recevoirNotification(array $course)
 {
-    public function recevoirNotification(Course $course)
-    {
-    }
+}
 
-    public function accepterCourse(int $courseId)
-    {
-    }
+function accepterCourse(int $courseId)
+{
+}
 
-    public function ignorerCourse(int $courseId)
-    {
-    }
+function ignorerCourse(int $courseId)
+{
+}
 
-    public function signalerDemarrageCourse(int $courseId)
-    {
-    }
+function signalerDemarrageCourse(int $courseId)
+{
+}
 
-    public function signalerFinCourse(int $courseId)
-    {
-    }
+function signalerFinCourse(int $courseId)
+{
+}
 
-    public function consulterGainsJournaliers()
-    {
-    }
+function consulterGainsJournaliers()
+{
 }
